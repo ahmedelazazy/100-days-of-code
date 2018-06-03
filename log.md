@@ -8,8 +8,8 @@
 
 **Link to work:** 
 [Challenge 01.JavaScript Drum Kit](https://github.com/ahmedelazazy/JavaScript30/tree/master/01.JavaScript%20Drum%20Kit)
-(Challenge 02. CSS + JS Clock)(https://github.com/ahmedelazazy/JavaScript30/tree/master/02.%20CSS%20%2B%20JS%20Clock)
-(Challenge 03. Playing with CSS Variables and JS)(https://github.com/ahmedelazazy/JavaScript30/tree/master/03.%20Playing%20with%20CSS%20Variables%20and%20JS)
-(Challenge 04. Array Cardio Day 1)(https://github.com/ahmedelazazy/JavaScript30/tree/master/04.%20Array%20Cardio%20Day%201)
+[Challenge 02. CSS + JS Clock](https://github.com/ahmedelazazy/JavaScript30/tree/master/02.%20CSS%20%2B%20JS%20Clock)
+[Challenge 03. Playing with CSS Variables and JS](https://github.com/ahmedelazazy/JavaScript30/tree/master/03.%20Playing%20with%20CSS%20Variables%20and%20JS)
+[Challenge 04. Array Cardio Day 1](https://github.com/ahmedelazazy/JavaScript30/tree/master/04.%20Array%20Cardio%20Day%201)
 
 
